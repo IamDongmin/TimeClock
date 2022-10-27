@@ -1,0 +1,17 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/portfolio/TimeClock/TimeClock.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sim_1/imports/new/tb_timeClock.v,1666836907,verilog,,,,tb_timeClock,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/BCDtoFND_Decoder.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Clock_Divider.v,,BCDtoFND_Decoder,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Clock_Divider.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Comparator.v,,Clock_Divider,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Comparator.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/CounterFND.v,,Comparator,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/CounterFND.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/DecoderFNDDigit.v,,CounterFND,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/DecoderFNDDigit.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/DigitDivider.v,,DecoderFNDDigit,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/DigitDivider.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Mux_2x1.v,,DigitDivider,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Mux_2x1.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Mux_8x1.v,,Mux_2x1,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/Mux_8x1.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/TimeClockCounter.v,,Mux_8x1,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/TimeClockCounter.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/TriBuff.v,,TimeClockCounter,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/TriBuff.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/top_TimeClock.v,,TriBuff,,,,,,,,
+D:/portfolio/TimeClock/TimeClock.srcs/sources_1/imports/new/top_TimeClock.v,1666836907,verilog,,D:/portfolio/TimeClock/TimeClock.srcs/sim_1/imports/new/tb_timeClock.v,,top_TimeClock,,,,,,,,
